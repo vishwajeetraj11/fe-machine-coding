@@ -1,0 +1,19 @@
+.typeahead-input {
+  width: 400px;
+  border: none;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.07);
+  padding: 20px 30px;
+  transition: all;
+  margin-bottom: 30px;
+}
+
+.typeahead-input:focus {
+  outline: none;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
