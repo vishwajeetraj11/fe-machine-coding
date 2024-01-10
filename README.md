@@ -39,4 +39,4 @@ This repository is a collection of popular machine coding problems asked in inte
 | Problem      | Difficulty | Solution                                   |
 | ------------ | ---------- | ------------------------------------------ |
 | Progress Bar | Easy       | [Solution](./src/components/progress/) |
-| Progress Bar | Easy       | [Solution](./src/components/typeahead/) |
+| Typeahead | Easy       | [Solution](./src/components/typeahead/) |
